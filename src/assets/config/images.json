@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "src": "https://wallpaperaccess.com/full/1251442.jpg",
+
+      "thumbnail": "https://wallpaperaccess.com/full/1251442.jpg"
+    },
+    {
+      "src": "https://cdn.vuetifyjs.com/images/carousel/bird.jpg",
+      "thumbnail": "https://cdn.vuetifyjs.com/images/carousel/bird.jpg"
+    },
+    {
+      "src": "https://wallpaperaccess.com/full/6511781.jpg",
+      "thumbnail": "https://wallpaperaccess.com/full/6511781.jpg"
+    },
+    {
+      "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg",
+      "thumbnail": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+    }
+  ]
+}
